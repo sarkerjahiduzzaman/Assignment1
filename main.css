@@ -254,3 +254,47 @@ footer h1{
 .f-paragraph{
     color: #707070;
 }
+/*footer end*/
+/*Bonus div css start*/
+.goal-div{
+    
+    text-align: center;
+    margin: 50px 0px;
+}
+.goal-div h1{
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.goal-condition{
+    display: flex;
+}
+.goal-box{
+    width: 35%;
+   
+    padding: 3%;
+    height: 500px;
+    border-radius: 30px;
+    box-shadow: 12px 12px 30px gray;
+
+}
+.goal-box img{
+    width: 100%;
+    border-radius: 8%;
+}
+#box1{
+    margin-left: 7%;
+    margin-right: 4%;
+}
+#box2{
+    margin-right: 7%;
+}
+.cheak-box{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+}
+.check-item{
+    width: 20px;
+    height: 20px;
+}
+/*Bonous div end */
